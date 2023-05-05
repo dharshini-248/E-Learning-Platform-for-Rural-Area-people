@@ -1,42 +1,23 @@
-# Voice-assisted-wheel-chair
+# E-Learning Platform
 
-
-
-<!--
-*** Thanks for checking out the Best-README-Template. 
-
--->
-
-
-
-
-
-
-
-
-<h3 align="center">Voice assisted smart wheel chair Accessing Google Maps</h3>
-
- 
-
-
-
-
-
+<h3 align="center">E-Learning-Platform-for-Rural-Area-people</h3>
 
 
 ## Problem Statement
-Mostly wheelchair users who uses their manual wheelchair to go out often get hands dirty and there are many times when they have to deal with blisters on their palms and also there are people with both upper and lower limb disabilities.
-Most of the taxi services are not disabled-friendly.Hence ,it is difficult to even go to places.Many disabled people find all that extremely difficult.Due to inaccessibility, they are forced to not go outdoors.
-The world around them is not a walk in the park.They have to face several obstacles in every step they take which is worse for disabled people while moving around in wheelchairs.
-So if a wheelchair user wants to go out on their own,they find it really hard due to inaccessible roads and streets.Every person loves to be independent.It can be quite irritating when they have to rely on someone else for going outdoors.
+Rural education condition in India has been still improving. However,rural schools have to face a lot of suffering.
+There are not enough classrooms,teachers & other educational facilities.
+There are lots of resources available on internet but it costs a lot of time to get what they need.
+Innovation in Technology enabled cost-effective output-oriented learning in Rural India benefits them a lot.
 
 
 ## About The Project
-
-There are currently more than 1 billion disabled people in the world.Among them** 75 million people need wheelchairs** on a daily basis.The number of people with disabilities is increasing because of the aging of the population and the increase of chronic diseases.To address this problem our project is aimed to solve the issues faced by disabled people having both upper and lower limb disabilities.The people with these disabilities need additional care to move from one place to another.In order to avoid this problem we proposed the idea of accessing Smart wheelchairs using voice assistants .The existing system works for moving the wheelchair only for small distances. Since the existing system cost for very high.To overcome the drawbacks of the existing system we added new features to move the wheelchair for long distances.On the contrary our project is proposed to use the voice assistant and we can use the wheel chairs for outdoor navigation with the help of Google map & GPS Module.We have used voice recognition module ,Ultrasonic sensors to detect obstacles,Arduino Uno and Bluetooth Module for retrieving voice commands,**Google Voice Assistant**,**Google Maps** in our project.The main goal of this project is to promote personal mobility with the greatest possible independence for people with disabilities.
-
-
-
+Nowadays everyone is aware of using technology like mobile phones, laptops, tablets,etc.
+Development in technology has benefited a lot of people.
+In rural areas many people are facing struggles in the education facilities. 
+To overcome these issues we have introduced the idea of an E-Learning platform with 24 hours live support features. This results in cost effective learning. 
+We proposed the idea of creating a website in which users could learn everything as per government issued syllabus and the voice assistant is also provided to explain the content present inside their academics.
+Online E- books are also present which will help to learn in a detailed manner.
+In addition to this, doing exams in online options along with a ranking system according to class vice  is also provided. 
 
 <!-- CONTACT -->
 ## Contact
